@@ -1,4 +1,4 @@
 # stepik---selenium---auto-tests-course
 Homework for the course
 
-In this file will appear my stepik project!
+This repo used to store homework for the TA Stepik course.
